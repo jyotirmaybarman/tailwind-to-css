@@ -1,0 +1,1 @@
+Bare bone boilerplate to get started with Nodejs & Typescript quickly
